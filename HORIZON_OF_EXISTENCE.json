@@ -1,0 +1,46 @@
+{
+  "manifest": {
+    "author": "KAISER",
+    "version": "0.0.1",
+    "name": "HORIZON OF EXISTENCE",
+    "transparency_mode": 3,
+    "license": "NIHILITY"
+  },
+  "background": {
+    "portain": {
+      "front": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "png"
+      },
+      "back": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "png"
+      }
+    }
+  },
+  "simple_colors": {
+    "background_secondary": 0,
+    "background": 0,
+    "active_channel": 4343373,
+    "input_background": 5198940,
+    "mention_highlight": 2126512128,
+    "accent": -3342336,
+    "blocked_bg": 0,
+    "statusbar": 2105893
+  },
+  "colors": {
+    "link": -1556930,
+    "uikit_btn_bg_color_selector_red": -4915200
+  },
+  "drawable_tints": {
+    "ic_status_idle_16dp": -1,
+    "ic_status_online_16dp": -1966080,
+    "ic_status_invisible_16dp": -9142387
+  }
+}
