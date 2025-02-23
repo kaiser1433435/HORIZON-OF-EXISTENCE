@@ -4,7 +4,8 @@
     "version": "0.0.1",
     "name": "HORIZON OF EXISTENCE",
     "transparency_mode": 3,
-    "license": "NIHILITY"
+    "license": "NIHILITY",
+    "updater": "https://raw.githubusercontent.com/kaiser1433435/HORIZON-OF-EXISTENCE/refs/heads/main/HORIZON_OF_EXISTENCE.json"
   },
   "background": {
     "portain": {
